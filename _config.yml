@@ -14,19 +14,19 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Salohy # the main title
+title: Mon Blog De Cuisine # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Des petits plats pour vous faire plaisir ainsi que votre famille # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  blog, partage, plaisir.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://blogdecuisine.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: BlogDeCuisine # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://veganwithgusto.com/wp-content/uploads/2021/05/spicy-spaghetti-arrabbiata.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
